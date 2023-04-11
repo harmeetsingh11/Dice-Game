@@ -6,11 +6,15 @@ Game of dice for two players alone.
 
 As soon as the user presses the "Roll the Dice" button, the dice are randomly thrown, giving player 1 and player 2 their individual dice values. Then, the dice game will declare a winner based on whose dice value was higher.
 
+## Demo
+
+https://harmeetsingh11.github.io/Dice-Game/
+
 ## Screenshots
 
-![App Screenshot](screenshots\capture1.png)
+![](screenshots/capture1.png)
 
-![App Screenshot](screenshots\capture2.png)
+![](screenshots/capture2.png)
 
 ## Run Locally
 
